@@ -1,7 +1,7 @@
 ---
 title: 'about'
 date: 2022-10-24 16:21:13
-lang: 'ko'
+lang: 'en'
 ---
 
 # DGC Members
